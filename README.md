@@ -1,16 +1,38 @@
-## Hi there 👋
+# Les  basiques de markdown(titre 1)
+##   Titre 2
 
-<!--
-**Merwan1-Boss/Merwan1-Boss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###   Titre 3
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Ceci est un message **gras** et en *italique*
+
+###  Faire les listes
+-Item 1
+-Item 2
+-Item 2.1
+-Item 2.2
+-Item 3
+
+### Todo
+
+-[X] Action 1
+-[] Action 2
+
+### Code
+
+```c
+int main(){
+return 0;
+};
+```
+
+### Images
+https://picsum.photos/200
+
+### equations
+
+$$ x^n + y^n = z^n $$
+
+
+
